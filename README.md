@@ -1,5 +1,6 @@
 # Optimizer
 Constructing and optimizing general mathematical and physical models.
 We present the package Optimizer aimed at constructing and optimizing general mathematical and physical models. It is written in the Matlab algorithmic language and is executed from under Matlab environment with partial functionality in Octave. The convenient visual interface and the detailed manuals are provided. The main benefit of the package is its capability of constructing models of any level of complexity in a block-by-block manner. Elementary model blocks can be collected in libraries, and we have already written many such library programs, intended to be published separately. The package provides the most reliable modern strategies for linear and non-linear model optimization, regularization, hypothesis tests. Parallel computing is supported.
-The newest updated copy of the package can be also found at https://sourceforge.net/projects/optimizer-sovkov/, see https://sourceforge.net/p/optimizer-sovkov/wiki/Intro/
-The application model programs adapted for working with Optimizer are collected at https://sourceforge.net/projects/optimizer-sovkov/files/APPLICATIONS/
+See the article at https://www.atlantis-press.com/proceedings/amsm-16/25856424.
+The newest updated copy of the package can be also found at https://sourceforge.net/projects/optimizer-sovkov/, see https://sourceforge.net/p/optimizer-sovkov/wiki/Intro/.
+The application model programs adapted for working with Optimizer are collected at https://sourceforge.net/projects/optimizer-sovkov/files/APPLICATIONS/.
